@@ -1,5 +1,6 @@
 package Recursion;
 
+// Q) Print X^n (Stack height = log n)
 public class XPowNStackHeightlogn {
     public static int xpn(int x,int n){
         if(n == 0){
